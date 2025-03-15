@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "2apptodoist",
-    "slug": "2apptodoist",
+    "name": "jsbaseappwatchlist",
+    "slug": "jsbaseappwatchlist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,14 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.misostack.x2apptodoist"
+      "bundleIdentifier": "app.jsbase.watchlist"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.misostack.x2apptodoist"
+      "package": "app.jsbase.watchlist"
     },
     "web": {
       "bundler": "metro",
